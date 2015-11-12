@@ -1,0 +1,33 @@
+.large-icon{
+  font-size: 5.0vw;
+  text-shadow: 1px 1px 1px #fff;
+  text-align: center;
+}
+
+.round{
+    border-radius: 50%;
+}
+
+.panel{
+    margin: 10px;
+}
+
+.carta{
+    &.active{text-decoration: none;}
+}
+
+.jogada{
+  font-size: 15.0vw;
+  text-shadow: 1px 1px 1px #fff;
+}
+
+.aviso{   
+    color: #3F51B5;
+    text-align: center;
+    font-size: 10.0vw;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+.play{
+   font-size: 5.0vw; 
+}
